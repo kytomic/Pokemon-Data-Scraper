@@ -1,6 +1,7 @@
 # Pokemon-Data-Scraper
 
-This is a self-studying project, and the aim of the project is to scrape the pokemon data from Pokemon Wiki using scrapy/
+This is a self-studying project, and the aim of the project is to scrape the pokemon data from Pokemon Wiki using scrapy
+
 Follow the procedure to use the program.
 
 (1) Download the packages listed in requirement.txt
